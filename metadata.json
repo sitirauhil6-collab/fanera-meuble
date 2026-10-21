@@ -1,0 +1,7 @@
+{
+  "name": "Kriya Kayu Studio — Mebel & Furnitur Solid Kayu Asli",
+  "description": "Toko dan galeri mebel kayu jati, suar, dan sungkai kualitas premium. Pesan furnitur estetik siap kirim dan pesanan kustom langsung dari perajin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
